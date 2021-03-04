@@ -8,6 +8,10 @@
     "@rails/webpacker": "4.3.0",
     "turbolinks": "^5.2.0"
   },
+  "scriptd":{
+  "test": "echo \"Error : ni test\" && exit1",
+  "start" : "node src/app.js"
+  }, 
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^3.11.2"
